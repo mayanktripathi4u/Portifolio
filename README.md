@@ -1,7 +1,7 @@
 # Portifolio
 Data Science Portfolio
 
-# Project 1: Data Science
+# [Project 1: Data Science](https://github.com/mayanktripathi4u/MachineLearning)
 ## Project Overview
 * Created a tool that estimates data science salaries (MAE ~ ) to help data scientist negotiate their income when they get a job.
 * Scrapped over 1000 job descriptions from <company name> using python and ..
