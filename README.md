@@ -9,4 +9,6 @@ Data Science Portfolio
 * Optimize Linear, Lasso and Random Forest Regression using GridsearchCV to reach the best model.
 * Build a client facing API using Flask / Djano
   
-  
+ 
+Sample image 
+![](https://github.com/mayanktripathi4u/Portifolio/blob/master/images/airplane1.jpg)
