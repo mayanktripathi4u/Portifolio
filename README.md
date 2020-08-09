@@ -11,4 +11,4 @@ Data Science Portfolio
   
  
 Sample image 
-![](https://github.com/mayanktripathi4u/Portifolio/blob/master/images/airplane1.jpg)
+![](/images/airplane1.jpg)
